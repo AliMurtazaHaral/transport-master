@@ -496,7 +496,7 @@ function LoadDetails(props) {
             <br></br>
             <div className="container1">
               <div className="btn-align">
-                <button className="buttonss ">Length</button>
+                <button className="buttonss " style={{width:'60px'}}>Length</button>
                 <input
                   value={L}
                   required
@@ -514,7 +514,7 @@ function LoadDetails(props) {
                 )}
               </div>
               <div className="btn-align2">
-                <button className="buttonss ">Width</button>
+                <button className="buttonss " style={{width:'60px'}}>Width</button>
                 <input
                   value={W}
                   required
@@ -535,7 +535,7 @@ function LoadDetails(props) {
             <br></br>
             <div className="container1">
               <div className="btn-align">
-                <button className="buttonss ">Height</button>
+                <button className="buttonss " style={{width:'60px'}}>Height</button>
                 <input
                   value={H}
                   required
@@ -553,7 +553,7 @@ function LoadDetails(props) {
                 )}
               </div>
               <div className="btn-align2">
-                <button className="buttonss ">Weight</button>
+                <button className="buttonss " style={{width:'60px'}}>Weight</button>
                 <input
                   value={wgt}
                   required
@@ -749,7 +749,7 @@ function LoadDetails(props) {
                   <br></br>
                   <div className="container1">
                     <div className="btn-align">
-                      <button className="buttonss ">Length</button>
+                      <button className="buttonss " style={{width:'60px'}}>Length</button>
                       <input
                         value={L1}
                         required
@@ -767,7 +767,7 @@ function LoadDetails(props) {
                       )}
                     </div>
                     <div className="btn-align2">
-                      <button className="buttonss ">Width</button>
+                      <button className="buttonss " style={{width:'60px'}}>Width</button>
                       <input
                         value={W1}
                         required
@@ -788,7 +788,7 @@ function LoadDetails(props) {
                   <br></br>
                   <div className="container1">
                     <div className="btn-align">
-                      <button className="buttonss ">Height</button>
+                      <button className="buttonss " style={{width:'60px'}}>Height</button>
                       <input
                         value={H1}
                         required
@@ -806,7 +806,7 @@ function LoadDetails(props) {
                       )}
                     </div>
                     <div className="btn-align2">
-                      <button className="buttonss ">Weight</button>
+                      <button className="buttonss " style={{width:'60px'}}>Weight</button>
                       <input
                         value={wgt1}
                         required
@@ -818,7 +818,7 @@ function LoadDetails(props) {
                       <select
                         label="Please select"
                         style={{
-                          width: "70px",
+                          width: "90px",
                           height: "46px",
                           borderRadius: "3px",
                           "padding-top": "10px",
@@ -826,7 +826,7 @@ function LoadDetails(props) {
                           border: "1px solid grey",
                         }}
                       >
-                        <option value="Please select">Select</option>
+                        <option value="select">Select</option>
                         <option value="Kg">Kilograms</option>
                         <option value="Tn">Tons</option>
                       </select>
@@ -842,7 +842,7 @@ function LoadDetails(props) {
                   <br></br>
                   <div className="container1">
                     <div className="btn-align">
-                      <button className="buttonss ">Quantity</button>
+                      <button className="buttonss " style={{width:'60px'}}>Quantity</button>
                       <input
                         value={qty1}
                         required
@@ -1008,7 +1008,7 @@ function LoadDetails(props) {
                   <br></br>
                   <div className="container1">
                     <div className="btn-align">
-                      <button className="buttonss ">Length</button>
+                      <button className="buttonss " style={{width:'60px'}}>Length</button>
                       <input
                         value={L2}
                         required
@@ -1026,7 +1026,7 @@ function LoadDetails(props) {
                       )}
                     </div>
                     <div className="btn-align2">
-                      <button className="buttonss ">Width</button>
+                      <button className="buttonss " style={{width:'60px'}}>Width</button>
                       <input
                         value={W2}
                         required
@@ -1047,7 +1047,7 @@ function LoadDetails(props) {
                   <br></br>
                   <div className="container1">
                     <div className="btn-align">
-                      <button className="buttonss ">Height</button>
+                      <button className="buttonss " style={{width:'60px'}}>Height</button>
                       <input
                         value={H2}
                         required
@@ -1065,7 +1065,7 @@ function LoadDetails(props) {
                       )}
                     </div>
                     <div className="btn-align2">
-                      <button className="buttonss ">Weight</button>
+                      <button className="buttonss " style={{width:'60px'}}>Weight</button>
                       <input
                         value={wgt2}
                         required
@@ -1077,7 +1077,7 @@ function LoadDetails(props) {
                       <select
                         label="Please select"
                         style={{
-                          width: "70px",
+                          width: "90px",
                           height: "46px",
                           borderRadius: "3px",
                           "padding-top": "10px",
@@ -1085,7 +1085,7 @@ function LoadDetails(props) {
                           border: "1px solid grey",
                         }}
                       >
-                        <option value="Please select">Please select</option>
+                        <option value="select">select</option>
                         <option value="Kg">Kilograms</option>
                         <option value="Tn">Tons</option>
                       </select>
@@ -1101,7 +1101,7 @@ function LoadDetails(props) {
                   <br></br>
                   <div className="container1">
                     <div className="btn-align">
-                      <button className="buttonss ">Quantity</button>
+                      <button className="buttonss " style={{width:'60px'}}>Quantity</button>
                       <input
                         value={qty2}
                         required
@@ -1267,7 +1267,7 @@ function LoadDetails(props) {
                   <br></br>
                   <div className="container1">
                     <div className="btn-align">
-                      <button className="buttonss ">Length</button>
+                      <button className="buttonss " style={{width:'60px'}}>Length</button>
                       <input
                         value={L3}
                         required
@@ -1285,7 +1285,7 @@ function LoadDetails(props) {
                       )}
                     </div>
                     <div className="btn-align2">
-                      <button className="buttonss ">Width</button>
+                      <button className="buttonss " style={{width:'60px'}}>Width</button>
                       <input
                         value={W3}
                         required
@@ -1306,7 +1306,7 @@ function LoadDetails(props) {
                   <br></br>
                   <div className="container1">
                     <div className="btn-align">
-                      <button className="buttonss ">Height</button>
+                      <button className="buttonss " style={{width:'60px'}}>Height</button>
                       <input
                         value={H3}
                         required
@@ -1324,7 +1324,7 @@ function LoadDetails(props) {
                       )}
                     </div>
                     <div className="btn-align2">
-                      <button className="buttonss ">Weight</button>
+                      <button className="buttonss " style={{width:'60px'}}>Weight</button>
                       <input
                         value={wgt3}
                         required
@@ -1334,9 +1334,9 @@ function LoadDetails(props) {
                         className="input-field1"
                       />
                       <select
-                        label="Please select"
+                        label="select"
                         style={{
-                          width: "70px",
+                          width: "90px",
                           height: "46px",
                           borderRadius: "3px",
                           "padding-top": "10px",
@@ -1344,7 +1344,7 @@ function LoadDetails(props) {
                           border: "1px solid grey",
                         }}
                       >
-                        <option value="Please select">Please select</option>
+                        <option value="select">select</option>
                         <option value="Kg">Kilograms</option>
                         <option value="Tn">Tons</option>
                       </select>
@@ -1360,7 +1360,7 @@ function LoadDetails(props) {
                   <br></br>
                   <div className="container1">
                     <div className="btn-align">
-                      <button className="buttonss ">Quantity</button>
+                      <button className="buttonss " style={{width:'60px'}}>Quantity</button>
                       <input
                         value={qty3}
                         required
